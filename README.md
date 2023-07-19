@@ -1,5 +1,7 @@
 # pdf
 eu criei um gerador de PDF em python, eu ultilizei muito o FORM
+
+
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 
